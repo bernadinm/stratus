@@ -1,7 +1,7 @@
 # stratus
-Mesosphere Gather Data
+A quick and dirty scather and gather of data for debugging.
 
-##Execution Instructions
+##Easy Execution Instructions
 
 ```bash
 sudo ./gather.sh
